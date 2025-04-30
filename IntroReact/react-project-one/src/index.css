@@ -10,4 +10,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  background-color: rgb(62, 62, 62);
+  /* font-size: 5rem; */
+  color: #fff;
 }
